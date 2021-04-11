@@ -9,3 +9,10 @@
   color: white;
   font-weight: 600;
 }
+.ellipsis {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  display: flex;
+  border-radius: 50%;
+}

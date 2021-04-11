@@ -21,11 +21,6 @@
   bottom: 15px;
 }
 .nav__ellipsis-noti {
-  background-color: tomato;
-  width: 6px;
-  height: 6px;
-  display: flex;
-  border-radius: 50%;
   position: absolute;
   right: -5px;
   bottom: 30px;
