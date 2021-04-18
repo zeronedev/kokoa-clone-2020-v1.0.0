@@ -25,6 +25,9 @@
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
 }
+.user-component__subtitle i {
+  color: rgba(243, 85, 85, 0.8);
+}
 
 .user-component__avatar--xl {
   width: 80px;
